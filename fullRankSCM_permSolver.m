@@ -10,7 +10,7 @@ function [A,perm] = fullRankSCM_permSolver(R,fs,micSpacing,soundSpeed,drawConv)
 % reverberant audio source separation using a fullrank spatial covariance
 % model," IEEE Transactions on Audio, Speech, and Language Processing,
 % vol. 18, no. 7, pp. 1830-1840, May 2010.
-% H. Sawada et.al., "Grouping separated frequency cComponents by estimating
+% H. Sawada et.al., "Grouping separated frequency Components by estimating
 % propagation model parameters in frequency-domain blind source separation",
 % IEEE Transactions on Audio, Speech, and Language Processing, vol.. 15, 
 % no. 5, pp 1592-1604, 2007.
