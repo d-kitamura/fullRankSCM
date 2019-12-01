@@ -20,8 +20,9 @@ Implementation is quite heuristic and not readable. This is because the direct i
 ## Original paper
 Full-rank SCM model was proposed in 
 * N. Q. K. Duong, E. Vincent, and R. Gribonval, "Underdetermined reverberant audio source separation using a fullrank spatial covariance model," IEEE Transactions on Audio, Speech, and Language Processing, vol. 18, no. 7, pp. 1830-1840, May 2010.
+
 The permutation solver used in this script was proposed in
-* H. Sawada et.al., "Grouping separated frequency cComponents by estimating propagation model parameters in frequency-domain blind source separation", IEEE Transactions on Audio, Speech, and Language Processing, vol.. 15, no. 5, pp 1592-1604, 2007.
+* H. Sawada et.al., "Grouping separated frequency Components by estimating propagation model parameters in frequency-domain blind source separation", IEEE Transactions on Audio, Speech, and Language Processing, vol.. 15, no. 5, pp 1592-1604, 2007.
 
 ## See Also
 * HP: http://d-kitamura.net
